@@ -1,0 +1,3 @@
+-r requirements.txt
+# Needed only to retrain the CNN/LSTM detector; not installed or tested in this audit.
+torch

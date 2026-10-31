@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.mplconfig/
+figs_rev/
+results/
+data/

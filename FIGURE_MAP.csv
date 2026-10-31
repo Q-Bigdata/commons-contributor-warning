@@ -1,0 +1,12 @@
+manuscript_name,script_section,script,archived_input_root
+Fig1,Fig1,05_code/figs_rev.py,06_derived_data
+Fig2,Fig2,05_code/figs_rev.py,06_derived_data
+Fig3,Fig3,05_code/figs_rev.py,06_derived_data
+Fig4,Fig4,05_code/figs_rev.py,06_derived_data
+ED_Fig1,ED_Fig1,05_code/figs_rev.py,06_derived_data
+ED_Fig2,ED_Fig2,05_code/figs_rev.py,06_derived_data
+ED_Fig3,ED_Fig3,05_code/figs_rev.py,06_derived_data
+ED_Fig4,ED_Fig5,05_code/figs_rev.py,06_derived_data
+ED_Fig5,ED_Fig6,05_code/figs_rev.py,06_derived_data
+ED_Fig6,ED_Fig7,05_code/figs_rev.py,06_derived_data
+SI_Fig1,ED_Fig4,05_code/figs_rev.py,06_derived_data

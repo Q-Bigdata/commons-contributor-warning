@@ -1,0 +1,36 @@
+{
+ "early_H2_delta_stateews_minus_state": {
+  "est": 0.03140285006584309,
+  "lo": -0.03023388297845723,
+  "hi": 0.0967610200314105,
+  "p_one_sided": 0.17
+ },
+ "early_delta_full_minus_state": {
+  "est": 0.1984723811688719,
+  "lo": 0.10329247138978762,
+  "hi": 0.3051776983750466,
+  "p_one_sided": 0.0
+ },
+ "early_H3_ews_auc_contingent_minus_unconditional": {
+  "note": "not testable: fewer than 5 events in unconditional mechanisms",
+  "events_unconditional": 2
+ },
+ "all_H2_delta_stateews_minus_state": {
+  "est": 0.013394223717235199,
+  "lo": 0.00519553938273368,
+  "hi": 0.02191624273198941,
+  "p_one_sided": 0.0005
+ },
+ "all_delta_full_minus_state": {
+  "est": 0.07162448081294659,
+  "lo": 0.03354510331016528,
+  "hi": 0.11054565681437559,
+  "p_one_sided": 0.0
+ },
+ "all_H3_ews_auc_contingent_minus_unconditional": {
+  "est": -0.06630348195999658,
+  "lo": -0.1358132548825662,
+  "hi": 0.006730910993075997,
+  "p_one_sided": 0.0345
+ }
+}
