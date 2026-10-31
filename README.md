@@ -2,7 +2,7 @@
 
 Analysis code and derived inputs for **Reliance on a narrowing contributor base, not critical slowing down, forecasts collapse in governed human commons**, by Tianyu Shi, Hanqing Qian and Chengyi Tu (R1 manuscript).
 
-The package corresponds to manuscript revision R1. The code is released under the MIT License, with original data attribution and third-party terms retained. No DOI is assigned.
+The package corresponds to manuscript revision R1. The code is released under the MIT License, with original data attribution and third-party terms retained. Fixed archived version: **v1.0.0**, DOI: [10.5281/zenodo.23836262](https://doi.org/10.5281/zenodo.23836262). The archive is fixed to source commit `3860e885ded12d8c08044e74cf8884295b6a1f7d`; the tagged research files remain unchanged.
 
 ## Contents
 
